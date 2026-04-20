@@ -1,6 +1,6 @@
 # BeaconRangeMod
 <p align="center">
-  <a href="#BeaconRange-Plugin"><img src="https://img.shields.io/badge/MC-1.21.10-brightgreen.svg" alt="Minecraft Version"/></a>
+  <a href="#BeaconRange-Mod"><img src="https://img.shields.io/badge/MC-26.1.1-brightgreen.svg" alt="Minecraft Version"/></a>
 </p>
 BeaconRangeMod est un mod qui comme mo plugin Paper/Spigot, permet d’ajuster le rayon d’effet des balises (beacons) selon leur niveau (tier).
 
