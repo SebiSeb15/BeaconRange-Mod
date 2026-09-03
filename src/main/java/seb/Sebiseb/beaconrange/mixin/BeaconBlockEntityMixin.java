@@ -1,12 +1,6 @@
 package seb.Sebiseb.beaconrange.mixin;
 
-import seb.Sebiseb.beaconrange.BeaconRange;
 import seb.Sebiseb.beaconrange.config.BeaconRangeConfig;
-import net.minecraft.core.BlockPos;
-import net.minecraft.core.Holder;
-import net.minecraft.world.effect.MobEffect;
-import net.minecraft.world.level.Level;
-import org.jspecify.annotations.Nullable;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyVariable;
